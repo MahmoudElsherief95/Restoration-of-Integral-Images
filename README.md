@@ -94,12 +94,8 @@ Model Weights:
   - For large models, consider hosting the weights on a cloud platform and provide a download link.
 
 
-Additional Notes:
------------------
+<img width="651" alt="image" src="https://github.com/user-attachments/assets/ce7c5974-1e32-4176-8a2b-b5ade065ba66">
 
-Make sure to set the correct paths in the scripts.
-Adjust training parameters in train.py as needed.
-The model architecture details are available in /code/model_definition.py.
 
 
 Project Link (whole folders and files) :
